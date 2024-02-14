@@ -7,3 +7,4 @@ excalidraw
 
 ## Additional tools
 gifcap
+Ninite : one click software setup for windows after fresh install
